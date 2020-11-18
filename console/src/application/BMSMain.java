@@ -19,7 +19,7 @@ public class BMSMain {
 
 
     public void start(){
-        this.engine = new Engine;
+        this.engine = new Engine();
 
     }
 }
